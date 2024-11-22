@@ -1,4 +1,4 @@
-## *Oii, meu nome é Laís (sem y).* 📚 
+## *Oii, meu nome é Laís (sem y).* 📖
 
   ★Atualmente estudo ciência da computação 
   
@@ -6,4 +6,4 @@
   Html, Css e Python.
   
   
-  <img align="center" width="20%" src="https://i.gifer.com/6vIk.gif"> 
+  <img align= "center" width="20%" src="https://i.gifer.com/6vIk.gif"> 
