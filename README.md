@@ -6,4 +6,4 @@
   Html, Css e Python.
   
   
-  <img align="center" width="35%" src="https://i.gifer.com/6vIk.gif"> 
+  <img align="center" width="20%" src="https://i.gifer.com/6vIk.gif"> 
