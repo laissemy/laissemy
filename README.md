@@ -1,5 +1,3 @@
-## *Oii, meu nome é Laís (sem y).* 📖
-
   ★Atualmente estudo ciência da computação 
   
   ★Tenho uma leve experiencia em: 
