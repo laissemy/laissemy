@@ -1,4 +1,4 @@
-# Laís 
+# Laís (sem y)
 
 
 Sou graduanda em ciência da computação, possuo experiência em python, html, css e Java.
