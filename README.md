@@ -3,25 +3,6 @@
 
 Sou graduanda em ciência da computação, possuo experiência em python, html, css e Java.
 
-<p align="left">
-    <a href="https://www.youtube.com/@laissemy?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-        />
-    </a>
-    <a href="https://www.youtube.com/@laissemy">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
 </p>
 
 ---
