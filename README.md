@@ -1,8 +1,5 @@
 # Oi, meu nome é Laís, sem y!
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ1dHQ4ZDRzZ2NmbGk2ZG16dWVxYXNiMXQxeXg2MzJteTQ3cm9xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N7UQCEtGgRMRi/giphy.gif" alt="Bulbasaur" width="200" />
-</p>
 
 Sou graduanda em Ciência da Computação, com experiência em **Python**, **Java**, **HTML**, **CSS**, **SQL** e **Inteligência Artificial**.
 
@@ -14,6 +11,11 @@ Sou graduanda em Ciência da Computação, com experiência em **Python**, **Jav
 > - Análise de dados
 
 Nas horas vagas, gosto de ler livros, assistir a filmes e jogar. Algumas vezes também gravo vídeos.
+<br>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNoYmlwcWpyYzd6bXV1YTZrbDg5dW96cm5iZmg1Mzhmc3RpbDBseSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/I2nZMy0sI0ySA/200.gif" alt="Bulbasaur pulando" width="360" />
+</p
 
 ---
 
