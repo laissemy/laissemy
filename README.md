@@ -1,4 +1,6 @@
-# Oi, meu nome é Laís, sem y!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=650&size=32&pause=500&color=2F81F7&center=true&vCenter=true&width=650&lines=Oi%2C+meu+nome+%C3%A9+La%C3%ADs%2C+sem+y!+%F0%9F%90%A7%F0%9F%92%BB" alt="Oi, meu nome é Laís, sem y! 🐧💻" />
+</p>
 
 
 Sou graduanda em Ciência da Computação, com experiência em **Python**, **Java**, **HTML**, **CSS**, **SQL** e **Inteligência Artificial**.
@@ -51,7 +53,7 @@ Você pode encontrar mais dos meus projetos nos respectivos repositórios:
 ## Estatísticas
 
 <p align="center">
-  <img width="98%" alt="Detalhes do perfil e contribuições" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laissemy&theme=github_dark" />
+  <img width="68%" alt="Detalhes do perfil e contribuições" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laissemy&theme=github_dark" />
 </p>
 
 <p align="center">
