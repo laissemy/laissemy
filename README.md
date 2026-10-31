@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=650&size=32&pause=500&color=2F81F7&center=true&vCenter=true&width=650&lines=Oi%2C+meu+nome+%C3%A9+La%C3%ADs%2C+sem+y!+%F0%9F%90%A7%F0%9F%92%BB" alt="Oi, meu nome é Laís, sem y! 🐧💻" />
+  <img width="125%" alt="Topo" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0B3D91&height=120&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=850&size=32&pause=500&color=ADD8E6&center=true&vCenter=true&width=650&lines=Oi%2C+meu+nome+%C3%A9+La%C3%ADs%2C+sem+y!+%F0%9F%90%A7%F0%9F%92%BB" alt="Oi, meu nome é Laís, sem y! 🐧💻" />
 </p>
 
 
@@ -12,7 +16,7 @@ Sou graduanda em Ciência da Computação, com experiência em **Python**, **Jav
 > - Modelos de Inteligência Artificial
 > - Análise de dados
 
-Nas horas vagas, gosto de ler livros, assistir a filmes e jogar. Algumas vezes também gravo vídeos.
+Nas horas vagas, gosto de ler livros, assistir a filmes e jogar. Algumas vezes também gravo vídeos e gosto da cor de azul.
 <br>
 <br>
 <p align="center">
@@ -20,8 +24,10 @@ Nas horas vagas, gosto de ler livros, assistir a filmes e jogar. Algumas vezes t
 </p
 
 ---
+<br>
+<br>
 
-## Tecnologias
+<h3 align="center">Tecnologias usadas:</h3>
 
 <p align="center">
   <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -36,7 +42,9 @@ Nas horas vagas, gosto de ler livros, assistir a filmes e jogar. Algumas vezes t
   <img alt="Linux" title="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
 
----
+<br>
+<br>
+
 
 ## Projetos
 
@@ -63,4 +71,8 @@ Você pode encontrar mais dos meus projetos nos respectivos repositórios:
 
 <p align="center">
   <img width="49%" alt="Horário mais produtivo" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laissemy&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="Rodapé" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0B3D91&height=120&section=footer" />
 </p>
