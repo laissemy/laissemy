@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/AqaQ_SnGnl8AAAAC/beach-pixel.gif" alt="Beach Pixel" width="100%">
-</p>
-
+<br>
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=1000&size=32&pause=500&color=ADD8E6&center=true&vCenter=true&width=650&lines=Oi%2C+meu+nome+%C3%A9+La%C3%ADs%2C+sem+y!+%F0%9F%90%A7%F0%9F%92%BB" alt="Oi, meu nome é Laís, sem y! 🐧💻" />
 </p>
-
+<br>
+<br>
 
 Sou graduanda em Ciência da Computação, com experiência em **Python**, **Java**, **HTML**, **CSS**, **SQL** e **Inteligência Artificial**.
 
