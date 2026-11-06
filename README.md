@@ -49,13 +49,15 @@ Nas horas vagas, gosto de ler livros, assistir a filmes e jogar. Algumas vezes t
 
 Você pode encontrar mais dos meus projetos nos respectivos repositórios:
 
+<div align="center">
+
 | Projeto | Descrição |
-|---------|-----------|
+|:-------:|:---------:|
 | [Python Games](https://github.com/laissemy/python_games) | Repositório com jogos feitos em Python |
 | [Utils](https://github.com/laissemy/utils) | Scripts para o uso cotidiano, como um downloader de vídeos do YouTube |
 | [IA](https://github.com/laissemy/ia) | Estudos de Inteligência Artificial e aplicações |
 
----
+</div>
 
 ## Estatísticas
 
